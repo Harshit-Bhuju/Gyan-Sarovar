@@ -1524,3 +1524,13 @@ footer p a:hover {
 .gallery img:hover{
   transform: scale(1.2);
 }
+
+
+.games-a {
+  text-decoration: none;
+  color: black;
+}
+.games-a:hover {
+  text-decoration: none;
+  color: black;
+}
