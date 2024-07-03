@@ -1174,6 +1174,7 @@ footer p a:hover {
   vertical-align: middle;
   display: inline-block;
 }
+
 .gallery {
   display: grid;
   grid-gap: 10px;
@@ -1475,6 +1476,14 @@ ul{
   .footer-col{
     width: 100%;
 }
+}
+.games-a {
+  text-decoration: none;
+  color: black;
+}
+.games-a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 
